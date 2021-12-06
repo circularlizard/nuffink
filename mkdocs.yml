@@ -9,3 +9,4 @@ theme:
     - navigation.expand
 plugins:
     - awesome-pages
+    - search
